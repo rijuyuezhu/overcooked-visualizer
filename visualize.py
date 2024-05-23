@@ -37,7 +37,7 @@ import time
 
 # modify these as needed.
 tmp_root = "/tmp"
-map_root = "./maps"
+map_root = "../project/maps"
 
 
 # do not modify the following params.
